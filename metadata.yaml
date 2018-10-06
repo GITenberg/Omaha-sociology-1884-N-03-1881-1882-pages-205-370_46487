@@ -22,5 +22,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Omaha sociology (1884 N 03 / 1881-1882 (pages 205-370))
 url: http://www.gutenberg.org/ebooks/46487
